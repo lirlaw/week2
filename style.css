@@ -1,0 +1,13 @@
+body{
+    margin:0 ;
+}
+.nav{
+    background-color: #2e1010;
+}
+.container{
+    max-width: 1000px;
+}
+
+.list > div{
+    display: inline-block;
+}
